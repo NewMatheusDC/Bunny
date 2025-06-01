@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > ## Project Archival
 > 
-> **This project is no longer actively maintained and this repository has been archived.**
+> **I will try to fix everything in bunny I promise..**
 >
 > We want to thank all contributors and users for their support over the project's lifetime. While development has ceased, the code remains available for those who may find it useful.
 
